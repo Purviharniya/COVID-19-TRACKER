@@ -1,4 +1,15 @@
 
+THE GLOBAL DATA:
+
+![](/screenshots/cards.PNG)
+![](/screenshots/chart.PNG)
+
+If a country is selected:
+COUNTRY DATA:
+
+![](/screenshots/countrycard.PNG)
+![](/screenshots/country.PNG)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
