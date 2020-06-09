@@ -1,5 +1,5 @@
 The tracker:
-![](/screenshots/covidtracker.mp4)
+![](/screenshots/covidtracker-demo.gif)
 
 
 THE GLOBAL DATA:
