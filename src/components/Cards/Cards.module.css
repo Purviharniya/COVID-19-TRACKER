@@ -11,13 +11,24 @@
     font-weight:bold;
 }
 
+.active{
+ 
+    border-bottom: 10px solid rgba(255,0,255,0.5);
+    
+}
+
 .infected{
     border-bottom: 10px solid rgba(0,0,255,0.5);
 }
 
-
 .recovered{
+    border: 2px solid black;
     border-bottom: 10px solid rgba(0,255,0,0.5);
+    color:black;
+    text-align:center;
+    font-family: verdana;
+    font-weight:bold;
+    
 }
 
 .deaths{
