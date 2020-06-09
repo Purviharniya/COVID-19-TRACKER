@@ -1,6 +1,3 @@
-The tracker:
-[![](/screenshots/global1.png)](/screenshots/covidtracker-demo.gif)
-
 
 THE GLOBAL DATA:
 
