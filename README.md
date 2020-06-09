@@ -1,14 +1,17 @@
+The tracker:
+![watch the video](/screenshots/covidtracker.gif)
+
 
 THE GLOBAL DATA:
 
-![](/screenshots/cards.PNG)
-![](/screenshots/chart.PNG)
+![](/screenshots/global1.png)
+![](/screenshots/global2.PNG)
 
 If a country is selected:
 COUNTRY DATA:
 
-![](/screenshots/countrycard.PNG)
-![](/screenshots/country.PNG)
+![](/screenshots/country1.PNG)
+![](/screenshots/country2.PNG)
 
 
 
