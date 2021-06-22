@@ -1,3 +1,5 @@
+## Covid-19 Tracker. 
+### Available at: http://purviharniya.github.io/COVID-19-TRACKER 
 
 THE GLOBAL DATA:
 
